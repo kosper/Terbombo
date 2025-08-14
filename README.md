@@ -8,7 +8,7 @@
 ```console
 foo@bar: make
 foo@bar: cd bin
-foo@bar: ./bosnia_sim
+foo@bar: ./terbombo
 ```
 
 To compile the project in debug mode, run the **_make_** command with the **DEBUG** flag enbaled, then navigate to the **_bin_** folder and run the executable as such:
@@ -16,7 +16,7 @@ To compile the project in debug mode, run the **_make_** command with the **DEBU
 ```console
 foo@bar: make DEBUG=1
 foo@bar: cd bin
-foo@bar: ./bosnia_sim
+foo@bar: ./terbombo
 ```
 
 ### DEPENDENCIES:
